@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Muftain Ahmed Joy</h1>
+<h1 align="center">Hi 👋, I'm Muftain Ahmed Joy</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
 
@@ -8,53 +8,53 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftain1610&label=Profile%20views&color=0e75b6&style=flat" alt="muftain1610" /> </p>
 
-発 I窶冦 currently working on **Manual Testing**
+🔭 I’m currently working on **Manual Testing**
 
-験 I窶冦 currently learning **Automation Testing**
+🌱 I’m currently learning **Automation Testing**
 
-町 Ask me about **Software QA, Manual testing, API testing, Performance testing, Database testing, Automation testing**
+💬 Ask me about **Software QA, Manual testing, API testing, Performance testing, Database testing, Automation testing**
 
-騰 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
+📫 How to reach me **You can send me email : muftainahmedjoy1610@gmail.com**
 
-塘 Check out my resume [https://cutt.ly/S2b5wx6]
+📄 Check out my resume [https://cutt.ly/S2b5wx6]
 
-痩 Check out all my projects [https://github.com/Muftain1610?tab=repositories]
+👉 Check out all my projects [https://github.com/Muftain1610?tab=repositories]
 
-笞｡ Fun fact **I think i have a good sense of humor**
+⚡ Fun fact **I think i have a good sense of humor**
 <h2 align="left">Skills & Proficiencies</h2>
-祷 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
+📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
-痘 Performance Testing Tool: JMeter
+📗 Performance Testing Tool: JMeter
 
-痘 API Testing Tool: Postman
+📗 API Testing Tool: Postman
 
-痘 Security Testing Tool: Nmap
+📗 Security Testing Tool: Nmap
 
-痘 Project Management Tool: Jira
+📗 Project Management Tool: Jira
 
-痘 Database Tool: MySql
+📗 Database Tool: MySql
 
-痘 Software Development concepts: SDLC, STLC
+📗 Software Development concepts: SDLC, STLC
 
-痘 Web Automation Tool: Selenium with Java
+📗 Web Automation Tool: Selenium with Java
 
-痘 Mobile Automation Tool: Appium
+📗 Mobile Automation Tool: Appium
 
-痘 BDD Tool: Cucumber
+📗 BDD Tool: Cucumber
 
-痘 CI / CD Tool: Jenkins
+📗 CI / CD Tool: Jenkins
 
-痘 IDE: Intellij, Eclipse
+📗 IDE: Intellij, Eclipse
 
-痘 Source and version control Tool: Git
+📗 Source and version control Tool: Git
 
-痘 Programming Language: Java,C,C++, JavaScript, HTML, CSS
+📗 Programming Language: Java,C,C++, JavaScript, HTML, CSS
 
-痘 Agile Methodology & Project Management: Jira
+📗 Agile Methodology & Project Management: Jira
 
-痘 Operating System: Windows, Linux
+📗 Operating System: Windows, Linux
 
-答 Concepts: OOP, SDLC, STLC
+📚 Concepts: OOP, SDLC, STLC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,4 +70,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muftain1610&show_icons=true&locale=en" alt="muftain1610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muftain1610&" alt="muftain1610" /></p>
+
 
