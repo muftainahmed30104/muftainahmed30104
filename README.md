@@ -4,8 +4,6 @@
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftain1610&label=Profile%20views&color=0e75b6&style=flat" alt="muftain1610" /> </p>
-<h3 align="left"> Trainee SQA Engineer @ BJIT Academy.</h3>
-I'm a Software Quality Assurance Engineer from Bangladesh with 1 year of experience in testing softwares. I have a profound knowledge in manual testing. I'm constantly learning new technologies to stay updated with the latest trends.
 
 
 
@@ -22,6 +20,9 @@ I'm a Software Quality Assurance Engineer from Bangladesh with 1 year of experie
 👉 Check out all my projects [https://github.com/Muftain1610?tab=repositories]
 
 ⚡ Fun fact **I think i have a good sense of humor**
+<h3 align="left"> Trainee SQA Engineer @ BJIT Academy.</h3>
+I'm a Software Quality Assurance Engineer from Bangladesh with 1 year of experience in testing softwares. I have a profound knowledge in manual testing. I'm constantly learning new technologies to stay updated with the latest trends.
+
 <h2 align="left">Skills & Proficiencies</h2>
 📘 Manual Testing: Analysis of Requirement, Designing & Test Planning, Writing & Reviewing Test Cases, Test Execution & Evaluation, Creating Test Report, Root Cause Analysis, Bug Reporting
 
